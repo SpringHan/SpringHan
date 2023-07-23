@@ -2,7 +2,7 @@
 
 I'm a student from China.  
 These are some intro of me:
-- Favorite programming languages: Lisp, C
+- Favorite programming languages: ELisp, Rust
 - Keyboard layout: Colemak
 - Code Editor: [NeoVim](https://github.com/SpringHan/nvim) & [Emacs](https://github.com/SpringHan/.emacs.d)
 - Edition Method: [sniem](https://github.com/SpringHan/sniem)(A Simple United Edition Method for Emacs written by me).
